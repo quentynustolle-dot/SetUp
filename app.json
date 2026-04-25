@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "SetUp",
+    "slug": "setup",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#121212"
+      }
+    },
+    "plugins": [
+      "expo-font",
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
